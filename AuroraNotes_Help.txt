@@ -1,0 +1,63 @@
+AuroraNotes.AI Help
+
+Overview
+AuroraNotes is a lightweight note editor with built-in AI assistance.
+
+Files
+- New: Create a blank note.
+- Open: Opens .txt or .docx (text is extracted from Word files).
+- Save: Saves as UTF-8 text.
+
+Edit
+- Undo (Ctrl+Z), Redo (Ctrl+Y)
+- Cut/Copy/Paste (Ctrl+X/C/V)
+- Delete (Del)
+- Find (Ctrl+F), Find Next (F3)
+- Replace (Ctrl+H)
+- Go To Line (Ctrl+Shift+G)
+- Select All (Ctrl+A)
+- Time/Date (F5)
+
+View
+- Zoom In/Out (Ctrl++ / Ctrl+-)
+- Restore Default Zoom (Ctrl+0)
+- Status Bar toggle
+
+AI
+- Set API Key: Required before using AI actions.
+- Generate Text (Ctrl+G): Expands or creates text from your selection.
+- Grammar Check (Ctrl+R): Corrects grammar of the selection or whole document.
+- Summarize (Ctrl+T): Adds a concise summary to the end.
+- Translate (Ctrl+L): Prompts for target language and adds translation.
+
+Formatting
+- Bold (Ctrl+B), Italic (Ctrl+I), Underline (Ctrl+U)
+- Font... (Ctrl+Shift+F) to choose family and size.
+- If no text is selected, formatting applies to new text.
+
+Shortcuts
+- Ctrl+G Generate
+- Ctrl+R Grammar
+- Ctrl+T Summarize
+- Ctrl+L Translate
+- Ctrl+B Bold
+- Ctrl+I Italic
+- Ctrl+U Underline
+- Ctrl+Shift+F Font
+- Ctrl+Z Undo
+- Ctrl+Y Redo
+- Ctrl+X Cut
+- Ctrl+C Copy
+- Ctrl+V Paste
+- Ctrl+F Find
+- F3 Find Next
+- Ctrl+H Replace
+- Ctrl+Shift+G Go To Line
+- Ctrl+A Select All
+- F5 Time/Date
+- Ctrl+0 Zoom Reset
+- Ctrl++ Zoom In
+- Ctrl+- Zoom Out
+
+Troubleshooting
+- Error log: AuroraNotes_error.log next to the executable.
