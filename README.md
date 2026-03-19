@@ -69,7 +69,7 @@ AuroraNotes.AI currently supports these primary note workflows:
 
 If you need a lightweight Windows note editor that can read Word documents and save clean text output, this build is set up for that purpose.
 
-## How to Run AuroraNotes on Windows
+## How to Run AuroraNotes on Windows 11/10
 
 1. Keep all files in this folder together.
 2. Launch `AuroraNotes.exe`.
