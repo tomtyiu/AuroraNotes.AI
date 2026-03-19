@@ -174,9 +174,12 @@ AuroraNotes.AI is a fit for users who want:
 - A translation tool inside a simple writing interface
 - A TXT and DOCX note workflow without a heavy editor
 
-## version
+## version 
 - Verison 1.0: first version that check grammar, generate text, translate and summarize. **Bug**: after run check grammar, generate text, translate and summarize, can't select the text anymore. Slow response after using AI.
 - Version 2.0: Optimized code and fix bugs from verison 1.
+
+## Language
+C++
 
 ## Summary
 
