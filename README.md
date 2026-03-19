@@ -1,4 +1,4 @@
-# AuroraNotes.AI - Windows AI Note Editor and Desktop Writing Assistant
+# AuroraNotes.AI - Windows AI Note Editor and Desktop Writing Assistant, Windows's Notepad with AI
 
 AuroraNotes.AI is a lightweight Windows AI note editor and desktop writing assistant for creating, editing, summarizing, translating, and improving text. This folder contains the compiled Windows build of AuroraNotes, including `AuroraNotes.exe`, bundled runtime libraries, the built-in help file, and the local error log.
 
